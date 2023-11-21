@@ -1,3 +1,3 @@
 FROM nginx:alpine
 COPY . /usr/share/nginx/html
-EXPOSE 8090:80
+EXPOSE 8090
